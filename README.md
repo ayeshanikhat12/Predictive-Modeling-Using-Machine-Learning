@@ -4,6 +4,7 @@
 **Industry:** Thiranex
 **Contribution:** Individual Project  
 **Project Domain:** Iris Classification 
+
 **Name:** Ayesha Nikhat
 
 ## 1. Project Overview
