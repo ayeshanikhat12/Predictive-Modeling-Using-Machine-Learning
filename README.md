@@ -1,11 +1,10 @@
 # Predictive Modeling Using Machine Learning
 
 **Project Type:** Machine Learning  
-**Industry:** Thiranex
-**Contribution:** Individual Project  
-**Project Domain:** Iris Classification 
-
-**Name:** Ayesha Nikhat
+**Industry:** Thiranex  
+**Contribution:** Individual Project   
+**Project Domain:** Iris Classification   
+**Name:** Ayesha Nikhat 
 
 ## 1. Project Overview
 
